@@ -19,3 +19,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+/src/components/New.vue
+/src/components/Quote.vue
+/src/components/Author.vue
+/src/components/HelloWorld.vue
